@@ -1,0 +1,41 @@
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+tags
+.deps
+.dirstamp
+echo_server
+configure
+aclocal.m4
+Makefile
+autom4te.cache/
+autotools/
+config.log
+config.status
+config.h
+config.h.in
+m4
+libtool
+stamp-h1
+Makefile.in
